@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Atualmente estou  mais na aréa de full-stack , embusca do primeiro emprego na aréa dev junior ,<br>buscando aperfeiçoar os conhecimentos em java
 
 
